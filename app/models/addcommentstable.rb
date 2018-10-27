@@ -1,0 +1,2 @@
+class Addcommentstable < ApplicationRecord
+end

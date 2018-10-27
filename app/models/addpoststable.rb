@@ -1,0 +1,2 @@
+class Addpoststable < ApplicationRecord
+end
